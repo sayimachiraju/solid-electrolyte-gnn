@@ -1,0 +1,11 @@
+pymatgen
+mp-api
+torch
+torch-geometric
+scikit-learn
+shap
+matplotlib
+seaborn
+pandas
+python-dotenv
+jupyterlab
